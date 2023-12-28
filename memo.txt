@@ -1,0 +1,2 @@
+Perceptron::
+https://github.com/JavierMtz5/ArtificialIntelligence/blob/main/Digit%20Recognizer%20Perceptron/Binary%20Digit%20Classification%20with%20Single%20Layer%20Perceptron.ipynb
